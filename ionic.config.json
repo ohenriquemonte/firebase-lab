@@ -1,5 +1,7 @@
 {
   "name": "firebaseLab",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
